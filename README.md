@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/shiwal25/LeetcodeQuestions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/shiwal25/LeetcodeQuestions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/shiwal25/LeetcodeQuestions/tree/master/0347-top-k-frequent-elements) |
+| [0739-daily-temperatures](https://github.com/shiwal25/LeetcodeQuestions/tree/master/0739-daily-temperatures) |
 | [0948-sort-an-array](https://github.com/shiwal25/LeetcodeQuestions/tree/master/0948-sort-an-array) |
 ## Hash Table
 |  |
@@ -110,4 +111,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/shiwal25/LeetcodeQuestions/tree/master/0268-missing-number) |
+## Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/shiwal25/LeetcodeQuestions/tree/master/0739-daily-temperatures) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/shiwal25/LeetcodeQuestions/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
