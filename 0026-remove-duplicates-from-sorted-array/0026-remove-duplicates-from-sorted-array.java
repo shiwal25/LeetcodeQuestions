@@ -5,9 +5,7 @@ class Solution {
         for(i=1;i<nums.length;i++){
             if(nums[i]!=nums[j]){
                 //swap
-                int temp = nums[i];
-                nums[i] = nums[j+1];
-                nums[j+1] = temp;
+                nums[j+1] = nums[i];
                 j++;
             }
         }
