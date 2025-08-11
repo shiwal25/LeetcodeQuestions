@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/shiwal25/LeetcodeQuestions/tree/master/0739-daily-temperatures) |
 | [0941-sort-array-by-parity](https://github.com/shiwal25/LeetcodeQuestions/tree/master/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/shiwal25/LeetcodeQuestions/tree/master/0948-sort-an-array) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/shiwal25/LeetcodeQuestions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/shiwal25/LeetcodeQuestions/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/shiwal25/LeetcodeQuestions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Hash Table
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/shiwal25/LeetcodeQuestions/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/shiwal25/LeetcodeQuestions/tree/master/0189-rotate-array) |
 | [0941-sort-array-by-parity](https://github.com/shiwal25/LeetcodeQuestions/tree/master/0941-sort-array-by-parity) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/shiwal25/LeetcodeQuestions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/shiwal25/LeetcodeQuestions/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/shiwal25/LeetcodeQuestions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Binary Search
@@ -143,4 +145,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shiwal25/LeetcodeQuestions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Simulation
+|  |
+| ------- |
+| [2271-rearrange-array-elements-by-sign](https://github.com/shiwal25/LeetcodeQuestions/tree/master/2271-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
