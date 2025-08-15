@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/shiwal25/LeetcodeQuestions/tree/master/0002-add-two-numbers) |
 | [0189-rotate-array](https://github.com/shiwal25/LeetcodeQuestions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/shiwal25/LeetcodeQuestions/tree/master/0268-missing-number) |
 ## Stack
@@ -165,4 +166,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/shiwal25/LeetcodeQuestions/tree/master/0020-valid-parentheses) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/shiwal25/LeetcodeQuestions/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/shiwal25/LeetcodeQuestions/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
