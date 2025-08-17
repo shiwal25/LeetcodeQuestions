@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/shiwal25/LeetcodeQuestions/tree/master/0002-add-two-numbers) |
 | [0189-rotate-array](https://github.com/shiwal25/LeetcodeQuestions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/shiwal25/LeetcodeQuestions/tree/master/0268-missing-number) |
+| [0319-bulb-switcher](https://github.com/shiwal25/LeetcodeQuestions/tree/master/0319-bulb-switcher) |
 ## Stack
 |  |
 | ------- |
@@ -179,4 +180,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2714-left-and-right-sum-differences](https://github.com/shiwal25/LeetcodeQuestions/tree/master/2714-left-and-right-sum-differences) |
+## Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/shiwal25/LeetcodeQuestions/tree/master/0319-bulb-switcher) |
 <!---LeetCode Topics End-->
