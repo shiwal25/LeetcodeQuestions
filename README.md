@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/shiwal25/LeetcodeQuestions/tree/master/0739-daily-temperatures) |
 | [0941-sort-array-by-parity](https://github.com/shiwal25/LeetcodeQuestions/tree/master/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/shiwal25/LeetcodeQuestions/tree/master/0948-sort-an-array) |
+| [1848-sum-of-unique-elements](https://github.com/shiwal25/LeetcodeQuestions/tree/master/1848-sum-of-unique-elements) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/shiwal25/LeetcodeQuestions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/shiwal25/LeetcodeQuestions/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/shiwal25/LeetcodeQuestions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/shiwal25/LeetcodeQuestions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/shiwal25/LeetcodeQuestions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/shiwal25/LeetcodeQuestions/tree/master/0347-top-k-frequent-elements) |
+| [1848-sum-of-unique-elements](https://github.com/shiwal25/LeetcodeQuestions/tree/master/1848-sum-of-unique-elements) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/shiwal25/LeetcodeQuestions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Divide and Conquer
 |  |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/shiwal25/LeetcodeQuestions/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/shiwal25/LeetcodeQuestions/tree/master/0347-top-k-frequent-elements) |
+| [1848-sum-of-unique-elements](https://github.com/shiwal25/LeetcodeQuestions/tree/master/1848-sum-of-unique-elements) |
 ## Two Pointers
 |  |
 | ------- |
