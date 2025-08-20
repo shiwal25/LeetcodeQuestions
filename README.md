@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/shiwal25/LeetcodeQuestions/tree/master/0739-daily-temperatures) |
 | [0941-sort-array-by-parity](https://github.com/shiwal25/LeetcodeQuestions/tree/master/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/shiwal25/LeetcodeQuestions/tree/master/0948-sort-an-array) |
+| [1127-last-stone-weight](https://github.com/shiwal25/LeetcodeQuestions/tree/master/1127-last-stone-weight) |
 | [1848-sum-of-unique-elements](https://github.com/shiwal25/LeetcodeQuestions/tree/master/1848-sum-of-unique-elements) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/shiwal25/LeetcodeQuestions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/shiwal25/LeetcodeQuestions/tree/master/2320-find-all-k-distant-indices-in-an-array) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/shiwal25/LeetcodeQuestions/tree/master/0658-find-k-closest-elements) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/shiwal25/LeetcodeQuestions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0948-sort-an-array](https://github.com/shiwal25/LeetcodeQuestions/tree/master/0948-sort-an-array) |
+| [1127-last-stone-weight](https://github.com/shiwal25/LeetcodeQuestions/tree/master/1127-last-stone-weight) |
 ## Bucket Sort
 |  |
 | ------- |
