@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/shiwal25/LeetcodeQuestions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/shiwal25/LeetcodeQuestions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/shiwal25/LeetcodeQuestions/tree/master/0268-missing-number) |
+| [0303-range-sum-query-immutable](https://github.com/shiwal25/LeetcodeQuestions/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/shiwal25/LeetcodeQuestions/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/shiwal25/LeetcodeQuestions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0658-find-k-closest-elements](https://github.com/shiwal25/LeetcodeQuestions/tree/master/0658-find-k-closest-elements) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/shiwal25/LeetcodeQuestions/tree/master/0303-range-sum-query-immutable) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/shiwal25/LeetcodeQuestions/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Binary Search Tree
 |  |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/shiwal25/LeetcodeQuestions/tree/master/0303-range-sum-query-immutable) |
 | [2714-left-and-right-sum-differences](https://github.com/shiwal25/LeetcodeQuestions/tree/master/2714-left-and-right-sum-differences) |
 ## Brainteaser
 |  |
