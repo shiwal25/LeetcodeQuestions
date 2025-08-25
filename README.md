@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/shiwal25/LeetcodeQuestions/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/shiwal25/LeetcodeQuestions/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/shiwal25/LeetcodeQuestions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/shiwal25/LeetcodeQuestions/tree/master/0268-missing-number) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/shiwal25/LeetcodeQuestions/tree/master/0002-add-two-numbers) |
+| [0013-roman-to-integer](https://github.com/shiwal25/LeetcodeQuestions/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/shiwal25/LeetcodeQuestions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/shiwal25/LeetcodeQuestions/tree/master/0268-missing-number) |
 | [0319-bulb-switcher](https://github.com/shiwal25/LeetcodeQuestions/tree/master/0319-bulb-switcher) |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/shiwal25/LeetcodeQuestions/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/shiwal25/LeetcodeQuestions/tree/master/0020-valid-parentheses) |
 ## Linked List
 |  |
