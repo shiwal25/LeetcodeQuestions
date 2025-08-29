@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/shiwal25/LeetcodeQuestions/tree/master/0268-missing-number) |
 | [0319-bulb-switcher](https://github.com/shiwal25/LeetcodeQuestions/tree/master/0319-bulb-switcher) |
 | [0371-sum-of-two-integers](https://github.com/shiwal25/LeetcodeQuestions/tree/master/0371-sum-of-two-integers) |
+| [3279-alice-and-bob-playing-flower-game](https://github.com/shiwal25/LeetcodeQuestions/tree/master/3279-alice-and-bob-playing-flower-game) |
 ## Stack
 |  |
 | ------- |
