@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/shiwal25/LeetcodeQuestions/tree/master/0890-lemonade-change) |
 | [0941-sort-array-by-parity](https://github.com/shiwal25/LeetcodeQuestions/tree/master/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/shiwal25/LeetcodeQuestions/tree/master/0948-sort-an-array) |
+| [1014-k-closest-points-to-origin](https://github.com/shiwal25/LeetcodeQuestions/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/shiwal25/LeetcodeQuestions/tree/master/1127-last-stone-weight) |
 | [1848-sum-of-unique-elements](https://github.com/shiwal25/LeetcodeQuestions/tree/master/1848-sum-of-unique-elements) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/shiwal25/LeetcodeQuestions/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/shiwal25/LeetcodeQuestions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/shiwal25/LeetcodeQuestions/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/shiwal25/LeetcodeQuestions/tree/master/0948-sort-an-array) |
+| [1014-k-closest-points-to-origin](https://github.com/shiwal25/LeetcodeQuestions/tree/master/1014-k-closest-points-to-origin) |
 ## Sorting
 |  |
 | ------- |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/shiwal25/LeetcodeQuestions/tree/master/0658-find-k-closest-elements) |
 | [0941-sort-array-by-parity](https://github.com/shiwal25/LeetcodeQuestions/tree/master/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/shiwal25/LeetcodeQuestions/tree/master/0948-sort-an-array) |
+| [1014-k-closest-points-to-origin](https://github.com/shiwal25/LeetcodeQuestions/tree/master/1014-k-closest-points-to-origin) |
 | [3748-sort-matrix-by-diagonals](https://github.com/shiwal25/LeetcodeQuestions/tree/master/3748-sort-matrix-by-diagonals) |
 ## Counting
 |  |
@@ -116,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/shiwal25/LeetcodeQuestions/tree/master/0658-find-k-closest-elements) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/shiwal25/LeetcodeQuestions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0948-sort-an-array](https://github.com/shiwal25/LeetcodeQuestions/tree/master/0948-sort-an-array) |
+| [1014-k-closest-points-to-origin](https://github.com/shiwal25/LeetcodeQuestions/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/shiwal25/LeetcodeQuestions/tree/master/1127-last-stone-weight) |
 ## Bucket Sort
 |  |
@@ -127,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/shiwal25/LeetcodeQuestions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/shiwal25/LeetcodeQuestions/tree/master/0347-top-k-frequent-elements) |
+| [1014-k-closest-points-to-origin](https://github.com/shiwal25/LeetcodeQuestions/tree/master/1014-k-closest-points-to-origin) |
 ## Tree
 |  |
 | ------- |
@@ -180,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/shiwal25/LeetcodeQuestions/tree/master/0268-missing-number) |
 | [0319-bulb-switcher](https://github.com/shiwal25/LeetcodeQuestions/tree/master/0319-bulb-switcher) |
 | [0371-sum-of-two-integers](https://github.com/shiwal25/LeetcodeQuestions/tree/master/0371-sum-of-two-integers) |
+| [1014-k-closest-points-to-origin](https://github.com/shiwal25/LeetcodeQuestions/tree/master/1014-k-closest-points-to-origin) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/shiwal25/LeetcodeQuestions/tree/master/3279-alice-and-bob-playing-flower-game) |
 ## Stack
 |  |
@@ -232,4 +238,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/shiwal25/LeetcodeQuestions/tree/master/0319-bulb-switcher) |
+## Geometry
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/shiwal25/LeetcodeQuestions/tree/master/1014-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
