@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/shiwal25/LeetcodeQuestions/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/shiwal25/LeetcodeQuestions/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/shiwal25/LeetcodeQuestions/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0463-island-perimeter](https://github.com/shiwal25/LeetcodeQuestions/tree/master/0463-island-perimeter) |
 | [0645-set-mismatch](https://github.com/shiwal25/LeetcodeQuestions/tree/master/0645-set-mismatch) |
 | [0658-find-k-closest-elements](https://github.com/shiwal25/LeetcodeQuestions/tree/master/0658-find-k-closest-elements) |
 | [0739-daily-temperatures](https://github.com/shiwal25/LeetcodeQuestions/tree/master/0739-daily-temperatures) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/shiwal25/LeetcodeQuestions/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/shiwal25/LeetcodeQuestions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/shiwal25/LeetcodeQuestions/tree/master/0074-search-a-2d-matrix) |
+| [0463-island-perimeter](https://github.com/shiwal25/LeetcodeQuestions/tree/master/0463-island-perimeter) |
 | [3748-sort-matrix-by-diagonals](https://github.com/shiwal25/LeetcodeQuestions/tree/master/3748-sort-matrix-by-diagonals) |
 ## Heap (Priority Queue)
 |  |
@@ -245,4 +247,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1014-k-closest-points-to-origin](https://github.com/shiwal25/LeetcodeQuestions/tree/master/1014-k-closest-points-to-origin) |
+## Depth-First Search
+|  |
+| ------- |
+| [0463-island-perimeter](https://github.com/shiwal25/LeetcodeQuestions/tree/master/0463-island-perimeter) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0463-island-perimeter](https://github.com/shiwal25/LeetcodeQuestions/tree/master/0463-island-perimeter) |
 <!---LeetCode Topics End-->
