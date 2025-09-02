@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1014-k-closest-points-to-origin](https://github.com/shiwal25/LeetcodeQuestions/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/shiwal25/LeetcodeQuestions/tree/master/1127-last-stone-weight) |
 | [1848-sum-of-unique-elements](https://github.com/shiwal25/LeetcodeQuestions/tree/master/1848-sum-of-unique-elements) |
+| [2144-maximum-difference-between-increasing-elements](https://github.com/shiwal25/LeetcodeQuestions/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/shiwal25/LeetcodeQuestions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/shiwal25/LeetcodeQuestions/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/shiwal25/LeetcodeQuestions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
