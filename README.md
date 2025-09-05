@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/shiwal25/LeetcodeQuestions/tree/master/0371-sum-of-two-integers) |
 | [1014-k-closest-points-to-origin](https://github.com/shiwal25/LeetcodeQuestions/tree/master/1014-k-closest-points-to-origin) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/shiwal25/LeetcodeQuestions/tree/master/3279-alice-and-bob-playing-flower-game) |
+| [3830-find-closest-person](https://github.com/shiwal25/LeetcodeQuestions/tree/master/3830-find-closest-person) |
 ## Stack
 |  |
 | ------- |
