@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/shiwal25/LeetcodeQuestions/tree/master/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/shiwal25/LeetcodeQuestions/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/shiwal25/LeetcodeQuestions/tree/master/1014-k-closest-points-to-origin) |
+| [2887-sort-vowels-in-a-string](https://github.com/shiwal25/LeetcodeQuestions/tree/master/2887-sort-vowels-in-a-string) |
 | [3748-sort-matrix-by-diagonals](https://github.com/shiwal25/LeetcodeQuestions/tree/master/3748-sort-matrix-by-diagonals) |
 ## Counting
 |  |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/shiwal25/LeetcodeQuestions/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/shiwal25/LeetcodeQuestions/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/shiwal25/LeetcodeQuestions/tree/master/0020-valid-parentheses) |
+| [2887-sort-vowels-in-a-string](https://github.com/shiwal25/LeetcodeQuestions/tree/master/2887-sort-vowels-in-a-string) |
 ## Linked List
 |  |
 | ------- |
