@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/shiwal25/LeetcodeQuestions/tree/master/0371-sum-of-two-integers) |
 | [1014-k-closest-points-to-origin](https://github.com/shiwal25/LeetcodeQuestions/tree/master/1014-k-closest-points-to-origin) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/shiwal25/LeetcodeQuestions/tree/master/3279-alice-and-bob-playing-flower-game) |
+| [3462-vowels-game-in-a-string](https://github.com/shiwal25/LeetcodeQuestions/tree/master/3462-vowels-game-in-a-string) |
 | [3830-find-closest-person](https://github.com/shiwal25/LeetcodeQuestions/tree/master/3830-find-closest-person) |
 ## Stack
 |  |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/shiwal25/LeetcodeQuestions/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/shiwal25/LeetcodeQuestions/tree/master/0020-valid-parentheses) |
 | [2887-sort-vowels-in-a-string](https://github.com/shiwal25/LeetcodeQuestions/tree/master/2887-sort-vowels-in-a-string) |
+| [3462-vowels-game-in-a-string](https://github.com/shiwal25/LeetcodeQuestions/tree/master/3462-vowels-game-in-a-string) |
 ## Linked List
 |  |
 | ------- |
@@ -250,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/shiwal25/LeetcodeQuestions/tree/master/0319-bulb-switcher) |
+| [3462-vowels-game-in-a-string](https://github.com/shiwal25/LeetcodeQuestions/tree/master/3462-vowels-game-in-a-string) |
 ## Geometry
 |  |
 | ------- |
@@ -262,4 +265,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/shiwal25/LeetcodeQuestions/tree/master/0463-island-perimeter) |
+## Game Theory
+|  |
+| ------- |
+| [3462-vowels-game-in-a-string](https://github.com/shiwal25/LeetcodeQuestions/tree/master/3462-vowels-game-in-a-string) |
 <!---LeetCode Topics End-->
