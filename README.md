@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/shiwal25/LeetcodeQuestions/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/shiwal25/LeetcodeQuestions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0645-set-mismatch](https://github.com/shiwal25/LeetcodeQuestions/tree/master/0645-set-mismatch) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/shiwal25/LeetcodeQuestions/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1848-sum-of-unique-elements](https://github.com/shiwal25/LeetcodeQuestions/tree/master/1848-sum-of-unique-elements) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/shiwal25/LeetcodeQuestions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Divide and Conquer
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/shiwal25/LeetcodeQuestions/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/shiwal25/LeetcodeQuestions/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/shiwal25/LeetcodeQuestions/tree/master/0020-valid-parentheses) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/shiwal25/LeetcodeQuestions/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [2887-sort-vowels-in-a-string](https://github.com/shiwal25/LeetcodeQuestions/tree/master/2887-sort-vowels-in-a-string) |
 | [3462-vowels-game-in-a-string](https://github.com/shiwal25/LeetcodeQuestions/tree/master/3462-vowels-game-in-a-string) |
 ## Linked List
