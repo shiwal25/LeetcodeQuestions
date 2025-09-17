@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2271-rearrange-array-elements-by-sign](https://github.com/shiwal25/LeetcodeQuestions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/shiwal25/LeetcodeQuestions/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/shiwal25/LeetcodeQuestions/tree/master/2320-find-all-k-distant-indices-in-an-array) |
+| [2429-design-a-food-rating-system](https://github.com/shiwal25/LeetcodeQuestions/tree/master/2429-design-a-food-rating-system) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/shiwal25/LeetcodeQuestions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2714-left-and-right-sum-differences](https://github.com/shiwal25/LeetcodeQuestions/tree/master/2714-left-and-right-sum-differences) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/shiwal25/LeetcodeQuestions/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/shiwal25/LeetcodeQuestions/tree/master/0645-set-mismatch) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/shiwal25/LeetcodeQuestions/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1848-sum-of-unique-elements](https://github.com/shiwal25/LeetcodeQuestions/tree/master/1848-sum-of-unique-elements) |
+| [2429-design-a-food-rating-system](https://github.com/shiwal25/LeetcodeQuestions/tree/master/2429-design-a-food-rating-system) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/shiwal25/LeetcodeQuestions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Divide and Conquer
 |  |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/shiwal25/LeetcodeQuestions/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/shiwal25/LeetcodeQuestions/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/shiwal25/LeetcodeQuestions/tree/master/1127-last-stone-weight) |
+| [2429-design-a-food-rating-system](https://github.com/shiwal25/LeetcodeQuestions/tree/master/2429-design-a-food-rating-system) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -152,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/shiwal25/LeetcodeQuestions/tree/master/0303-range-sum-query-immutable) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/shiwal25/LeetcodeQuestions/tree/master/0789-kth-largest-element-in-a-stream) |
+| [2429-design-a-food-rating-system](https://github.com/shiwal25/LeetcodeQuestions/tree/master/2429-design-a-food-rating-system) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -237,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/shiwal25/LeetcodeQuestions/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/shiwal25/LeetcodeQuestions/tree/master/0020-valid-parentheses) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/shiwal25/LeetcodeQuestions/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [2429-design-a-food-rating-system](https://github.com/shiwal25/LeetcodeQuestions/tree/master/2429-design-a-food-rating-system) |
 | [2887-sort-vowels-in-a-string](https://github.com/shiwal25/LeetcodeQuestions/tree/master/2887-sort-vowels-in-a-string) |
 | [3462-vowels-game-in-a-string](https://github.com/shiwal25/LeetcodeQuestions/tree/master/3462-vowels-game-in-a-string) |
 ## Linked List
@@ -278,4 +283,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/shiwal25/LeetcodeQuestions/tree/master/2307-replace-non-coprime-numbers-in-array) |
+## Ordered Set
+|  |
+| ------- |
+| [2429-design-a-food-rating-system](https://github.com/shiwal25/LeetcodeQuestions/tree/master/2429-design-a-food-rating-system) |
 <!---LeetCode Topics End-->
